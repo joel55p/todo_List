@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0   ;
+   background-color: bisque;
+  
+}
+
+
+
+
+.lista{
+   background-color: aquamarine;
+    width: 35vw;
+    height: 50vh;
+    margin: 200px 550px;
+    
+}
+
+
+.lista h1{
+    position: absolute;
+    top: 250px;
+    left: 725px;
+  background-color: aquamarine;
+}
+
+.lista input{
+    width: 15vw;
+    height: 10vh;
+    position: absolute;
+    left: 725px;
+    top: 300px;
+    background-color: white
+}
+
+
+.agregar2{
+    position: absolute;
+    left: 725px;
+    top: 400px;
+}
+
+
+
+.proceso{
+    position: absolute;
+    left: 725px;
+    top: 450px;
+}
+
+
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    background-color: brown ;
+}
